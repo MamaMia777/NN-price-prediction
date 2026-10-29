@@ -1,0 +1,4 @@
+,final wealth (1 →),ann. return,ann. volatility,Sharpe (rf=0),max drawdown,time in market,# trades
+Buy & hold,2.0233,0.4254,0.2135,1.7673,-0.1661,1.0,1.0
+NN (no costs),1.7026,0.3069,0.1975,1.454,-0.1479,0.8143712574850299,147.0
+NN (10 bp costs),1.4699,0.2138,0.1977,1.0787,-0.1767,0.8143712574850299,147.0

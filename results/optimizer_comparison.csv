@@ -1,0 +1,4 @@
+,train_bal_acc,val_bal_acc,val_bal_acc_std,time_s,mean_n_iter
+sgd,0.7276,0.494,0.0248,1.1094,255.4
+adam,0.8001,0.5042,0.0141,1.3719,294.8
+lbfgs,0.9945,0.4879,0.0204,0.58,193.0

@@ -1,0 +1,4 @@
+,"NN 16-8, adam",Always Up
+accuracy,0.525,0.5629
+balanced_accuracy,0.4852,0.5
+share predicted Up,0.8144,1.0
